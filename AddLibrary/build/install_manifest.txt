@@ -1,0 +1,4 @@
+/home/xiaohai/Desktop/cmake/lib/libhello.so.1
+/home/xiaohai/Desktop/cmake/lib/libhello.so
+/home/xiaohai/Desktop/cmake/lib/libhello.a
+/home/xiaohai/Desktop/cmake/include/hello.h

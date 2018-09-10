@@ -1,0 +1,14 @@
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/install/strip.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/install.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/install/local.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/list_install_components.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/edit_cache.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/install/local.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/hello_static.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/install/strip.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/hello_dynamic.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/edit_cache.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/list_install_components.dir
+/home/xiaohai/Github/CMake/AddLibrary/build/src/CMakeFiles/install.dir

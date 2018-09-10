@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaohai/Github/CMake/Boost/src/main.cpp
+iostream
+-
+boost/atomic.hpp
+/home/xiaohai/Github/CMake/Boost/src/boost/atomic.hpp
+boost/progress.hpp
+/home/xiaohai/Github/CMake/Boost/src/boost/progress.hpp
+
